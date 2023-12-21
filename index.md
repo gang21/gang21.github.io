@@ -1,6 +1,7 @@
 ---
 title: Gabriella Ang
 layout: default
+theme: jekyll-theme-cayman
 ---
 
 # {{ page.title }}
