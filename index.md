@@ -1,6 +1,6 @@
 ---
 title: Gabriella Ang
-layout: index
+layout: default
 ---
 
 # {{ page.title }}
