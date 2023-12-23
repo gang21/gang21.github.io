@@ -1,4 +1,4 @@
-.container {
+#container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -8,18 +8,19 @@
 
   }
   
-  .img {
+  #img {
     width: 225px;
     height: 350px;
+    align-self: right;
   }
   
-  p {
+  #text {
     font-size: 20px;
     padding-left: 20px;
     font: "Verdana";
   }
 
-  .box {
+  #box {
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 50px;
