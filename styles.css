@@ -1,25 +1,30 @@
 #container {
-    display: flex;
-    margin: auto;
-    background-color: blanchedalmond;
-
-  }
+  display: flex;
+  margin: auto;
+  background-color: blanchedalmond;
+}
   
-  #image {
-    width: 225px;
-    height: 350px;
-  }
+#image {
+  width: 225px;
+  height: 350px;
+}
   
-  #text {
-    font-size: 20px;
-    padding-left: 20px;
-    font: "Verdana";
-  }
+#text {
+  font-size: 20px;
+  padding-left: 20px;
+  font: "Verdana";
+}
 
-  #box {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    background-color: beige;
-  }
+p {
+  font-size: 20px;
+  padding-left: 20px;
+  font: "Verdana";
+}
+
+#box {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: beige;
+}
