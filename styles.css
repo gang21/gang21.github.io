@@ -1,7 +1,5 @@
 #container {
     display: flex;
-    align-items: center;
-    justify-content: center;
     margin: auto;
     max-width: 600px;
     background-color: blanchedalmond;
